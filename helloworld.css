@@ -1,0 +1,24 @@
+.wrap-grey-box {
+	background: grey;
+}
+
+.flex-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;/*
+    justify-content: center;*/
+    padding: 0 !important;
+}
+
+.card-wrap {
+	width: 33% !important;
+	margin: 0 10px;
+}
+
+.card-wrap .card {
+	width: 100%;
+}
+
+.card-columns {
+	column-count: 3;
+}
